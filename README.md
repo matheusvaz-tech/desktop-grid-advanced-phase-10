@@ -4,7 +4,7 @@
 
 > De forma autônoma, depois de assistir todo o conteúdo do nível 03 do Explorer, foi proposto um layout em que aplicaria a regra "mobile-first" e animações de entrada.
 
-[🔗 Click here to access the website](https://matheusvaz-dev.github.io/mobile-first-intermediary-phase-09/)
+[🔗 Click here to access the website](https://matheusvaz-dev.github.io/desktop-grid-advanced-phase-10/)
 
 ## 🛠️ Technologies
 
